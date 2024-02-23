@@ -1,30 +1,15 @@
-# Temperature Convertor
+# Temperature Converter Project
 
-This webpage converts temperatures from and to Celcius, Fahrenheit and Kelvin.
+This project is a simple temperature converter that allows users to convert temperatures between Fahrenheit and Celsius. It provides a user-friendly interface for easy temperature conversion.
 
-### Tech Stack:
+## Overview
 
-- HTML5
-- Bulma CSS
-- Vanilla JS
+- Converts temperatures between Fahrenheit and Celsius.
+- User-friendly interface.
+- Straightforward and easy to use.
 
-### Prequisites:
+## How to Use
 
-- Git and GitHub installed in the machine in order to clone the repo.
-
-### How to Install:
-
-- Open terminal / CMD to access git commands.
-- Enter this command:
-  `https://github.com/joshi-kaushal/Web-dev-mini-projects.git`
-- switch to _temp-convertor_ branch and open the folder named _Temperature Convertor_
-- run `index.html` file
-
-### Screenshots:
-
-Home Page -
-![Home Page](https://github.com/joshi-kaushal/Web-dev-mini-projects/blob/temp-convertor/Temperature%20Convertor/assets/home.png)
-Successful conversion -
-![Successful conversion](https://github.com/joshi-kaushal/Web-dev-mini-projects/blob/temp-convertor/Temperature%20Convertor/assets/cel-far.png)
-Same Units -
-![Same Units](https://github.com/joshi-kaushal/Web-dev-mini-projects/blob/temp-convertor/Temperature%20Convertor/assets/same-units.jpg)
+1. git clone https://github.com/hrishabh2003/temperature-converter.git
+2. Open the `index.html` file in your browser.
+3. Enter a temperature value in either Fahrenheit or Celsius, and the converted value will be displayed instantly.
